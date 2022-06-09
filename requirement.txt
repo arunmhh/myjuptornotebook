@@ -1,0 +1,6 @@
+numpy==1.22
+pandas==1.4.2
+matplotlib==3.5
+SciPy==1.8.1
+pingouin==0.5.1
+seaborn==0.11.2
